@@ -1,0 +1,4 @@
+{"id":1,"type":"vertex","label":"metaData","version":"0.4.3","projectRoot":"file:///Users/michaelbali/Project/LERNA-MONOREPO","positionEncoding":"utf-16","toolInfo":{"name":"lsif-tsc","args":["node_modules/asn1.js","node_modules/big.js","node_modules/bn.js","node_modules/decimal.js","node_modules/des.js","node_modules/hash.js","node_modules/hpack.js","node_modules/ipaddr.js","node_modules/md5.js","node_modules/sha.js","--AllowJs","--checkJs"],"version":"0.7.2"}}
+{"id":2,"type":"vertex","label":"project","kind":"typescript"}
+{"id":3,"type":"vertex","label":"$event","kind":"begin","scope":"project","data":2}
+{"id":4,"type":"vertex","label":"$event","kind":"end","scope":"project","data":2}
